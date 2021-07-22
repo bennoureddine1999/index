@@ -1,0 +1,17 @@
+#calculate {
+  width: 20%;
+}
+.screen {
+  border: solid black 2px;
+  height: 30px;
+}
+.buttons {
+  border: solid black 2px;
+}
+.button {
+  font-size: 30px;
+}
+.lain {
+  display: flex;
+  justify-content: space-around;
+}
